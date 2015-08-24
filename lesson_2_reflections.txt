@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository adds a .git folder to your directory, and allows git to store meta data on all files.
