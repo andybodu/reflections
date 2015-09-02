@@ -11,3 +11,7 @@ It can help compare the local repository to the remote, for merge conflicts.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Git and Github make it easy because it tracks changes and allows people to work on the same files using various techniques to avoid interfering with the main working files. There are other systems that allow checking in / checking out of files, but they don't allow for simultaneous work and merging, so it's a better system.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You could make changes in a separate branch for alternative versions of the program, with different features. Also if you were developing newer features it might make sense to have a separate branch. 
